@@ -95,27 +95,30 @@ This project showcases:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run the Project
 
-1. Clone the repository
+1. Download or clone this repository to your local system
 
-```
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-2. Navigate to project folder
+2. Install all required libraries:
 
 ```
-cd your-repo-name
+pip install numpy pandas matplotlib scikit-learn tensorflow keras
 ```
 
-3. Install dependencies
+3. Open the project in:
 
-```
-pip install -r requirements.txt
-```
+* Jupyter Notebook OR
+* Google Colab
 
-4. Run the notebook or script
+4. Run all the cells step-by-step
+
+5. Ensure dataset file is properly loaded (update file path if needed)
+
+6. View output:
+
+* Model accuracy
+* Loss graph
+* Prediction results
 
 ---
 
@@ -139,4 +142,5 @@ pip install -r requirements.txt
 Give it a ⭐ on GitHub and share your feedback!
 
 ---
+
 
